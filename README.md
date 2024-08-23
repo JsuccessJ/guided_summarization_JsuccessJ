@@ -1,3 +1,12 @@
+# LLM이전에 Gudided Signal을 이용한 GSUM 논문에 대한 리뷰입니다.
+### 정리 파일 링크
+https://drive.google.com/file/d/1stjCMSizcSUh_8xKUVXtlP0cbEeNvNtH/view?usp=sharing
+
+<dr><dr><dr><dr><dr>
+
+
+
+
 Implementations of our [paper](https://arxiv.org/abs/2010.08014) `GSum: A General Framework for Guided Neural Abstractive Summarization`. 
 
 
