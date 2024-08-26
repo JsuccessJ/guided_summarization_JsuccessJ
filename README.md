@@ -1,7 +1,7 @@
 # LLM이전에 Gudided Signal을 이용한 GSUM 논문에 대한 리뷰입니다.
 
-### <div align="center">
-  **정리 파일 링크 (PPT 이미지 클릭)**  
+<div align="center">
+  <strong style="font-size: 1.2em;">정리 파일 링크 (PPT 이미지 클릭)</strong>  
   <br>
   ⬇⬇⬇⬇⬇
 </div>
