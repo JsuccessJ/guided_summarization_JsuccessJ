@@ -1,5 +1,11 @@
 # LLM이전에 Gudided Signal을 이용한 GSUM 논문에 대한 리뷰입니다.
 ### 정리 파일 링크
+<div align="center">
+  <a href="https://drive.google.com/file/d/1stjCMSizcSUh_8xKUVXtlP0cbEeNvNtH/view?usp=sharing">
+    <img width="798" alt="image" src="https://github.com/user-attachments/assets/3eabb5b1-8853-46c5-b935-f37572b2e828">
+  </a>
+</div>
+
 https://drive.google.com/file/d/1stjCMSizcSUh_8xKUVXtlP0cbEeNvNtH/view?usp=sharing
 
 <br><br><br><br><br>
